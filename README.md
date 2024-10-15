@@ -16,5 +16,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-![Watch Video](https://github.com/user-attachments/assets/85f928d1-428f-479f-b748-802a49d4b0f1)
+![giphy](https://media.giphy.com/media/9s8Jq3Sc1ZnZS/giphy.gif?cid=790b7611xonpv9viyr0yr6jr9qxnig6nq1u3x0f6qa6hku0q&ep=v1_gifs_trending&rid=giphy.gif&ct=g)
 
