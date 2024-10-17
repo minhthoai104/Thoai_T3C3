@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **software technology in HUFLIT**
 
-- 👯 I’m looking to collaborate on **on Android projects**
+- 👯 I’m looking to collaborate on **Android projects**
 
 - 📫 How to reach me **thoaitran.111117@gmail.com**
 
