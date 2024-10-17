@@ -1,5 +1,6 @@
 ## 👋 Hi, I'm Tran Minh Thoai
-## 🌱 I’m currently learning software technology in HUFLIT
+#### 🌱 I’m currently learning software technology in HUFLIT
+#### 🌱 I’m currently working on a project about a coffee app, a fashion sales app, and a hair salon management app.
 ## 🌱 Tran Minh Thoai_T3_Ca3
 ![giphy](https://github.com/user-attachments/assets/272b8391-74cd-42b2-ac72-65784849e3fe)
 
