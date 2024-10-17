@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **thoaitran.11111@gmail.com**
 
-- ⚡ Fun fact **Tôi nghĩ tôi là người ít nói nhất trên thế giới.**
+- ⚡ Fun fact **I think I am the person who can help people the most.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
