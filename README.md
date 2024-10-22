@@ -11,8 +11,6 @@
 
 - ⚡ Fun fact **I think I am the person who can help people the most.**
 
-- ⚡ TranMinhThoai_Ca3_T3
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/mthoai000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mthoai000" height="30" width="40" /></a>
