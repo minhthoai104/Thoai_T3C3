@@ -27,5 +27,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minhthoai104&" alt="minhthoai104" /></p>
 
-![code](https://github.com/user-attachments/assets/ef17e4c8-0c92-4567-9b32-eb07f1af0baf)
+
 
