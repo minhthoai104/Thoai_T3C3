@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tran Minh Thoai</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minhthoai104&label=Profile%20views&color=0e75b6&style=flat" alt="minhthoai104" /> </p>
 
-- 🔭 I’m currently working on [a project about a coffee app.](https://github.com/TranNhatNam20112004/Terrace)
+- 🔭 I’m currently working on [a project about a coffee app](https://github.com/TranNhatNam20112004/Terrace), and  [a project about hair salon app](https://bitbucket.org/test_dapm/hair-salon/src/main/).
 
 - 🌱 I’m currently learning **software technology in HUFLIT**
 
