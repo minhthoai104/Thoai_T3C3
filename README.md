@@ -9,7 +9,9 @@
 
 - 📫 How to reach me **thoaitran.111117@gmail.com**
 
-- ⚡ Fun fact **I think I am the person who can help people the most.**
+- ⚡ Fun fact **I think I am the one who can laugh the most.**
+
+- ⚡ My hobbies are listening to music, playing video games(LOL), programming, watching Korean movies, billiards.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
